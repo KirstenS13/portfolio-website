@@ -1,3 +1,25 @@
+# Feb 2021 TO DO
+
+- [ ] change anchor tag links to open in new tab with rel noopener noreferrer
+- [ ] list secret-fam-recipes, express-groomer, silent-auction
+- [ ] update description of projects
+- [ ] update self description
+- [ ] update photos
+- [ ] customize styling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Build A Portfolio Website
 
 With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.  
